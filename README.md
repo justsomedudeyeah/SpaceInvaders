@@ -1,4 +1,4 @@
-# SPACE INVADERS 🛸
+# *SPACE INVADERS* 🛸
 
 [![Language](https://img.shields.io/badge/python-%3E=%202.7-blue?style=flat-square&logo=appveyor)](https://www.python.org)
 [![Modules](https://img.shields.io/badge/modules-pygame-green?style=flat-square&logo=appveyor)](https://www.pygame.org/docs/)
